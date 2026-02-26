@@ -1,4 +1,6 @@
-# 👋 Hola, soy Nickolai Parra
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hola%2C+soy+Nickolai+Parra" />
+</p>
 
 🎓 **Estudiante de Ingeniería de Sistemas y Computación**  
 📍 Bogotá, Colombia  
