@@ -1,13 +1,20 @@
 name: Generate Snake Contribution Graph
 
-on:
+'on':
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
