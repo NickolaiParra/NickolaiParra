@@ -16,13 +16,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (light & dark)
         uses: Platane/snk@v3
         with:
           github_user_name: NickolaiParra
+
+          # Estilos personalizados
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/snake-light.svg?color_snake=#2E7D32&color_dots=#A5D6A7,#81C784,#66BB6A,#4CAF50,#388E3C&color_bg=#FFFFFF
+            dist/snake-dark.svg?color_snake=#00E5FF&color_dots=#00E5FF,#1DE9B6,#64FFDA,#18FFFF,#84FFFF&color_bg=#0D1117
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
