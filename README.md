@@ -59,9 +59,9 @@ Construcción de un robot capaz de detectar objetos y frenar automáticamente us
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/snake-light.svg">
+          srcset="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation"
-       src="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/snake-light.svg">
+       src="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/github-contribution-grid-snake.svg">
 </picture>
