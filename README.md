@@ -67,6 +67,11 @@ Includes a frontend built with HTML, CSS, and JavaScript, and a PHP backend conn
 ### 🔹 ESCAPE ISLAND - Educational Video Game
 Development of an educational video game focused on teaching basic programming concepts through interactive mechanics, built with Java and Python, with version control via Git.
 
+### 🔹 Multiverse: Orbits
+Interactive 3D visualization of a multiverse structured as orbiting nodes, built with HTML, JavaScript, and Three.js as a Data Structures course project. Implements custom orbital linked-list structures supporting node insertion, deletion, and search, with real-time animated rendering.
+
+🔗 [Live Demo](https://juamador52.github.io/Multiverso/)
+
 ### 🔹 Autonomous Robot with Computer Vision
 Built a robot capable of detecting objects and braking automatically using Python, OpenCV, and TensorFlow, applying convolutional neural networks for real-time decision-making.
 
