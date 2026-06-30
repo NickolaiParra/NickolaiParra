@@ -1,72 +1,89 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hola%2C+soy+Nickolai+Parra">
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I%27m+Nickolai+Parra">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=000000&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hola%2C+soy+Nickolai+Parra">
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=000000&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I%27m+Nickolai+Parra">
     <img alt="Typing SVG"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hola%2C+soy+Nickolai+Parra">
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I%27m+Nickolai+Parra">
   </picture>
 </p>
 
-🎓 **Estudiante de Ingeniería de Sistemas y Computación**  
-📍 Bogotá, Colombia  
-💡 Interesado en **inteligencia artificial, desarrollo de software y sistemas inteligentes**
+🎓 **Software Engineering Student**
+📍 Bogotá, Colombia
+💡 Interested in **artificial intelligence, software development, and intelligent systems**
 
-Soy estudiante de ingeniería con una sólida formación académica y experiencia práctica en desarrollo de software, bases de datos y aprendizaje automático. Me interesa crear soluciones tecnológicas para problemas reales y fortalecer continuamente mis habilidades técnicas.
+I'm an engineering student with a solid academic background and hands-on experience in software development, databases, and machine learning. I'm passionate about building technological solutions for real-world problems and continuously strengthening my technical skills.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-### 💻 Lenguajes de programación
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🌐 Desarrollo web
+### 🧩 Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Bases de datos y control de versiones
+### 🗄️ Databases and Version Control
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-### 🤖 Datos e inteligencia artificial
+### 🤖 Data and Artificial Intelligence
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Otras habilidades
+### 📊 Other Skills
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects
 
-### 🔹 ARTEPAN – Aplicación web de gestión de pedidos
-Aplicación web que permite a los clientes registrarse, iniciar sesión, visualizar productos, crear pedidos y consultar su historial.  
-Incluye frontend con HTML, CSS y JavaScript, y backend en PHP conectado a una base de datos MySQL mediante APIs.  
+### 🔹 SISA – Academic Survival System
+Collaborative web platform for university students that centralizes information on administrative procedures, campus buildings, events, and notices. Built with Vue 3, Django REST Framework, and PostgreSQL, it features an interactive campus map, and a rewards system with personalized titles.
 
-### 🔹 Videojuego educativo
-Desarrollo de un videojuego educativo enfocado en la enseñanza de programación básica mediante mecánicas interactivas, utilizando Java y Python, con control de versiones en Git.
+🔗 [Live Demo](https://sisa-unal.up.railway.app/)
 
-### 🔹 Robot autónomo con visión por computadora
-Construcción de un robot capaz de detectar objetos y frenar automáticamente usando Python, OpenCV y TensorFlow, aplicando redes neuronales convolucionales para la toma de decisiones en tiempo real.
+### 🔹 ARTEPAN - Order Management Web Application
+A web application that allows customers to register, log in, view products, place orders, and check their order history.
+Includes a frontend built with HTML, CSS, and JavaScript, and a PHP backend connected to a MySQL database through APIs.
+
+### 🔹 ESCAPE ISLAND - Educational Video Game
+Development of an educational video game focused on teaching basic programming concepts through interactive mechanics, built with Java and Python, with version control via Git.
+
+### 🔹 Autonomous Robot with Computer Vision
+Built a robot capable of detecting objects and braking automatically using Python, OpenCV, and TensorFlow, applying convolutional neural networks for real-time decision-making.
+
+### 🔹 Respiratory Risk Bogotá
+Predictive analysis platform for respiratory risk in Bogotá D.C., built using air quality data from the RMCAB monitoring network. Implements a full CRISP-DM pipeline with Random Forest and XGBoost models and SHAP interpretability, deployed as an interactive Leaflet.js map.
+
+🔗 [Live Demo](https://nickolaiparra.github.io/respiratory-risk-bogota)
 
 ---
 
-## 🌍 Idiomas
-- Español: Nativo
-- Inglés: Fluido
+## 🌍 Languages
+- Spanish: Native
+- English: Fluent
 
 ---
 
-## 🐍 Actividad en GitHub
-
+## 🐍 GitHub Activity
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/NickolaiParra/NickolaiParra/output/github-contribution-grid-snake-dark.svg">
