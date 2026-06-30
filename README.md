@@ -51,7 +51,7 @@ I'm an engineering student with a solid academic background and hands-on experie
 ### 📊 Other Skills
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
---- 
+---
 
 ## 📂 Featured Projects
 
@@ -59,11 +59,13 @@ I'm an engineering student with a solid academic background and hands-on experie
 Collaborative web platform for university students that centralizes information on administrative procedures, campus buildings, events, and notices. Built with Vue 3, Django REST Framework, and PostgreSQL, it features an interactive campus map, and a rewards system with personalized titles.
 
 🔗 [Live Demo](https://sisa-unal.up.railway.app/)
+📦 [Docs](https://github.com/Programangos/project-docs) · [Backend](https://github.com/Programangos/project-backend) · [Frontend](https://github.com/Programangos/project-frontend)
 
 ### 🔹 Respiratory Risk Bogotá
 Predictive analysis platform for respiratory risk in Bogotá D.C., built using air quality data from the RMCAB monitoring network. Implements a full CRISP-DM pipeline with Random Forest and XGBoost models and SHAP interpretability, deployed as an interactive Leaflet.js map.
 
 🔗 [Live Demo](https://nickolaiparra.github.io/respiratory-risk-bogota)
+📦 [Repository](https://github.com/NickolaiParra/respiratory-risk-bogota)
 
 ### 🔹 Autonomous Robot with Computer Vision
 Built a robot capable of detecting objects and braking automatically using Python, OpenCV, and TensorFlow, applying convolutional neural networks for real-time decision-making.
@@ -76,16 +78,23 @@ Built a robot capable of detecting objects and braking automatically using Pytho
 A web application that allows customers to register, log in, view products, place orders, and check their order history.
 Includes a frontend built with HTML, CSS, and JavaScript, and a PHP backend connected to a MySQL database through APIs.
 
+📦 [Repository](https://github.com/NickolaiParra/ARTEPAN)
+
 ### 🔹 ESCAPE ISLAND - Educational Video Game
 Development of an educational video game focused on teaching basic programming concepts through interactive mechanics, built with Java and Python, with version control via Git.
+
+📦 [Repository](https://github.com/NickolaiParra/Escape-Island)
 
 ### 🔹 Multiverse: Orbits
 Interactive 3D visualization of a multiverse structured as orbiting nodes, built with HTML, JavaScript, and Three.js as a Data Structures course project. Implements custom orbital linked-list structures supporting node insertion, deletion, and search, with real-time animated rendering.
 
 🔗 [Live Demo](https://juamador52.github.io/Multiverso/)
+📦 [Repository](https://github.com/juamador52/Multiverso)
 
 ### 🔹 LABERINTOS - Maze Solver
 Interactive application for solving mazes, finding all possible routes, and visualizing them with animation using Pygame. Includes a standalone executable for Windows.
+
+📦 [Repository](https://github.com/NickolaiParra/LABERINTOS)
 
 ---
 
