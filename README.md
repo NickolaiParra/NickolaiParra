@@ -84,6 +84,9 @@ Interactive 3D visualization of a multiverse structured as orbiting nodes, built
 
 🔗 [Live Demo](https://juamador52.github.io/Multiverso/)
 
+### 🔹 LABERINTOS - Maze Solver
+Interactive application for solving mazes, finding all possible routes, and visualizing them with animation using Pygame. Includes a standalone executable for Windows.
+
 ---
 
 ## 🌍 Languages
