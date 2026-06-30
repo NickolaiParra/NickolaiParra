@@ -51,7 +51,7 @@ I'm an engineering student with a solid academic background and hands-on experie
 ### 📊 Other Skills
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+--- 
 
 ## 📂 Featured Projects
 
@@ -59,6 +59,18 @@ I'm an engineering student with a solid academic background and hands-on experie
 Collaborative web platform for university students that centralizes information on administrative procedures, campus buildings, events, and notices. Built with Vue 3, Django REST Framework, and PostgreSQL, it features an interactive campus map, and a rewards system with personalized titles.
 
 🔗 [Live Demo](https://sisa-unal.up.railway.app/)
+
+### 🔹 Respiratory Risk Bogotá
+Predictive analysis platform for respiratory risk in Bogotá D.C., built using air quality data from the RMCAB monitoring network. Implements a full CRISP-DM pipeline with Random Forest and XGBoost models and SHAP interpretability, deployed as an interactive Leaflet.js map.
+
+🔗 [Live Demo](https://nickolaiparra.github.io/respiratory-risk-bogota)
+
+### 🔹 Autonomous Robot with Computer Vision
+Built a robot capable of detecting objects and braking automatically using Python, OpenCV, and TensorFlow, applying convolutional neural networks for real-time decision-making.
+
+---
+
+## 📁 Other Projects
 
 ### 🔹 ARTEPAN - Order Management Web Application
 A web application that allows customers to register, log in, view products, place orders, and check their order history.
@@ -71,14 +83,6 @@ Development of an educational video game focused on teaching basic programming c
 Interactive 3D visualization of a multiverse structured as orbiting nodes, built with HTML, JavaScript, and Three.js as a Data Structures course project. Implements custom orbital linked-list structures supporting node insertion, deletion, and search, with real-time animated rendering.
 
 🔗 [Live Demo](https://juamador52.github.io/Multiverso/)
-
-### 🔹 Autonomous Robot with Computer Vision
-Built a robot capable of detecting objects and braking automatically using Python, OpenCV, and TensorFlow, applying convolutional neural networks for real-time decision-making.
-
-### 🔹 Respiratory Risk Bogotá
-Predictive analysis platform for respiratory risk in Bogotá D.C., built using air quality data from the RMCAB monitoring network. Implements a full CRISP-DM pipeline with Random Forest and XGBoost models and SHAP interpretability, deployed as an interactive Leaflet.js map.
-
-🔗 [Live Demo](https://nickolaiparra.github.io/respiratory-risk-bogota)
 
 ---
 
